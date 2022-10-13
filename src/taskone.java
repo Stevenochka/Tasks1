@@ -1,4 +1,4 @@
-public class Main {
+public class taskone {
     public static void main(String[] args) {
 
         System.out.println(ost(9,3));
